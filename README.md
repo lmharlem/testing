@@ -41,7 +41,7 @@ During the transformation phase, we performed various data cleaning tactics to g
 
 ## DATA LOADING (PGAdmin SQL)
 
- - Used movie_id and cast_member_id as primary & foreign keys
+ - Created primary & foreign keys
  - Created a new database called IMDb_db
  - Wrote a Schema to create the tables in the database and setting primary keys for each dataset
  - Imported all three normalized datasets successfully in SQL server 
