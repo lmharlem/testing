@@ -16,10 +16,10 @@ The goal of this project is to illustrate Extract Transform Load (ETL) using Exc
 
 ## DATA SOURCES AND DESCRIPTIONS
 
-We obtained 3 data files from https://www.kaggle.com </li>
- - IMDb movies.csv
- - IMDb names.csv
- - IMDb title_principles.csv
+We obtained 3 data files from the IMDB Movies Extensive dataset located at https://www.kaggle.com. The datasets consist of movies with more than 100 votes of 01/01/2020.
+ - The movies dataset includes 85,855 movies with attributes such as movie description, average rating, number of votes, genre, etc.
+ - The names dataset includes 297,705 cast members with personal attributes such as birth details, death details, height, spouses, children, etc.
+ - The title principals dataset includes 835,513 cast members roles in movies with attributes such as IMDb title id, IMDb name id, order of importance in the movie, role, and characters played.
 
 ## DATA EXTRACTION
 
